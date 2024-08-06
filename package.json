@@ -1,0 +1,16 @@
+{
+  "name": "api_express_test",
+  "version": "1.0.0",
+  "description": "Projeto Test de uma API Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+    
+  }
+}
